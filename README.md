@@ -2,10 +2,6 @@
 
 This example shows how to access the Veeqo API dashboard.
 
-If you want to see it in action visit:
-
-https://veeqo-dashboard.herokuapp.com
-
 ## Requirements
  
 - PHP >= 5.4
